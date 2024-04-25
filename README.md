@@ -1,0 +1,1 @@
+# SORAMALA Token contract
